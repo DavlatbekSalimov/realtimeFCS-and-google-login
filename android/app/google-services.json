@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078029966497",
+    "project_id": "realtimef-c5ca8",
+    "storage_bucket": "realtimef-c5ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078029966497:android:16c0d6c43f37d60ff0a4e0",
+        "android_client_info": {
+          "package_name": "com.example.realtime_fcs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASw2_y4oC49eBiPEZJdBtWFLfb6_OJHyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
